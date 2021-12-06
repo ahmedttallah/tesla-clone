@@ -1,0 +1,6 @@
+npx create-react-app tesla-clone --template redux
+yarn start
+{created components folder and add a file.js for every compmnent and add it to the App.js component}
+yarn add styled-components
+
+{create one compmnent and style it then duplicate it in app.js and change things using props}
